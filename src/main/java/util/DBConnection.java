@@ -9,7 +9,7 @@ public class DBConnection {
     // Database configuration - UPDATE THESE VALUES
     private static final String URL = "jdbc:mysql://localhost:3306/student_management";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "556143"; // Change this to your MySQL password
+    private static final String PASSWORD = "";
 
     static {
         try {
